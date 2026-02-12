@@ -1,0 +1,7 @@
+{
+  "name": "InstaClone React",
+  "description": "A feature-rich Instagram clone with functional stories and a working messenger interface, built with React and Tailwind CSS.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
